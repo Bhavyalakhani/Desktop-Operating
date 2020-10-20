@@ -1,3 +1,3 @@
-# Desktop-Operating
+# Desktop-Operating-System
 Operating system means it is a system OS which maintains and manages the system functionality by guiding the hardware. It is also called as set of programs that control the hardware .Some examples of operating systems are UNIX, MS-DOS, MS-Windows, Windows/NT, Chicago, OS/2, MacOS, VMS, MVS, and VM. There are some services like Kernel services, library services, and application-level services these are all part of an operating system. Kernel provides path to the peripheral device it’s also responds to the calls and invoke the devices according to the call. It can terminate a executing process according to the resource requested.
 We have applied File, I\O, Memory Management and Security.
